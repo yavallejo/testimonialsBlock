@@ -1,0 +1,24 @@
+{
+  "name": "testimonialsblocks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "wp-scripts start",
+    "build": "wp-scripts build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yavallejo/testimonialsBlock.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yavallejo/testimonialsBlock/issues"
+  },
+  "homepage": "https://github.com/yavallejo/testimonialsBlock#readme",
+  "devDependencies": {
+    "@wordpress/scripts": "15.0.1"
+  }
+}
